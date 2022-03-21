@@ -1,6 +1,7 @@
 {
   "name": "form_bem_paggo",
   "version": "0.1.0",
+  "homepage": "bemPaggo_form/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
