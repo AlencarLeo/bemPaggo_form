@@ -1,89 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">Olá! Esse é o desafio FrontEnd da <a href="https://www.bempaggo.com.br/">BemPaggo</a></h1>
+<p align="center">Esse README.md vai contar sobre meu desenvolvimento nesse projeto! Espero que goste recrutador!</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*GIF PROJETO*
 
-## Available Scripts
+<h2>🔥Technologies</h2>
+<ul>
+  <li>JSX</li>
+  <li>CSS</li>
+  <li>JS</li>
+  <li>ReactJS</li>
+  <li>Styled Components</li>
+  <li>Jest</li>
+  <li>Projected on <a href="https://www.figma.com/">Figma</a> & Coded on <a href="https://code.visualstudio.com/">VSCode</a></li>
+</ul>
+<p>Das tecnologias acimas citadas, decidi usar Styled Components para a padronizaação dos componentes criados, no qual foram estruturados e divididos de uma forma que facilite futuras implementações, correções ou alteraações neles. Além disso decidir mudar sutilmente o projeto, um pouco o espaçamento, tamanho e o arredondamento das bordas, sendo tudo pensado para promover a melhor usabilidade para o usuário e seu UI desing. Para UX implementei pequenas aanimaações com as interações do usuário.
 
-In the project directory, you can run:
+  fiz o projeto em react para ter todos
+componentes com estados reativos e para
+evitar débitos técnicos, pois uma vez
+que queira adicionar um novo elemento
+basta utilizar sua tag pois o projeto 
+foi estilizado com styled-compoents sendo
+todos seus components divididos, contando
+ainda com uma estrutura limpa e bem pensada.
+me atentei a todos os detalhes do projeto
+e tomei a liberdade de melhorar a ux com
+interações, enfim espero que gostem
+  
+  
+  como não tive acesso ao código hex das cores 
+utilizadas, tentei aproximar ao max com o 
+color picker
+  
+  deixei um pouco mais arredondado para tornar a ui amigavel, diminuindo um pouco o icone da caixa para trazer sensação de luxo
+  
+  parte que mais gostei do projeto- CHECKBOX, incremento e decremento
+por exemplo, para implementar uma nova 
+checkbox basta adicionar o nome do 
+adesivo no array criado
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+padronizei cores, fontes e tamanhos no estilo do formulario
+deixando mais harmonico, ainda centralizei alguns elementos
+</p>
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h2 align="center">❤️developed with love by Leonardo Alencar❤️</h2>
+<p><b>FOLLOW ME!</b></p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+  <a href="https://www.instagram.com/la.codes/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/leonardo-alencar-5749aa1b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deploymentt
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�#� �a�
-�
-�#� �a�
-�
-�#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�#� �b�e�m�P�a�g�g�o�_�f�o�r�m�
-�
-�
+<p align="right">LA | Leonardo Alencar.</p>
