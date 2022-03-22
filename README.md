@@ -1,8 +1,6 @@
 <h1 align="center">Olá! Esse é o desafio FrontEnd da <a href="https://www.bempaggo.com.br/">BemPaggo</a></h1>
-<p align="center">Esse README.md vai contar sobre meu desenvolvimento nesse projeto! Espero que goste recrutador!</p>
+<p align="center">Esse README.md vai contar sobre meu desenvolvimento nesse projeto! Espero que goste✌</p>
 <p align="center">Você pode fazer o deploy normalmente no seu localhost ou visualizar o projeto <a href="https://alencarleo.github.io/bemPaggo_form/">AQUI</a></p>
-
-*GIF PROJETO*
 
 <h2>🔥Tecnologias</h2>
 <ul>
@@ -14,24 +12,21 @@
   <li>testing-library</li>
   <li>Projected on <a href="https://www.figma.com/">Figma</a> & Coded on <a href="https://code.visualstudio.com/">VSCode</a></li>
 </ul>
-<p> Fiz o projeto em react para ter todos componentes com estados reativos e para evitar débitos técnicos, pois uma vez que queira modificar, atualizar ou adicionar um novo elemento basta utilizar sua tag pois o projeto foi estilizado com styled-compoents sendo todos seus components divididos, contando ainda com uma estrutura limpa e bem pensada. Me atentei a todos os detalhes do projeto, mas como não tive acesso direto a parametros de estilização, modifiquei sutilmente o projeto mas lembrando de sua essencia e mantendo todos parametros necessários para promover sua UX / UI. Ainda quero ressaltar a padronização de estilo, além de dividir os compoenentes, coloquei valores de estilo como cores, fontes e tamanhos em variáveis css, ou seja, além de ser super facil mudar ou adicionar um componente, modificar seu estilo também seria.</p>
+<p> Fiz o projeto em react para ter todos componentes com estados reativos e para evitar débitos técnicos, pois uma vez que queira modificar, atualizar ou adicionar um novo elemento basta utilizar sua tag já que o projeto foi estilizado com styled-compoents sendo todos seus components divididos, contando ainda com uma estrutura limpa e bem pensada. Me atentei a todos os detalhes do projeto, mas como não tive acesso direto a parametros de estilização, modifiquei sutilmente o projeto mas lembrando de sua essência e mantendo todos parâmetros necessários para promover sua UX / UI. Ainda quero ressaltar a padronização de estilo, além de dividir os compoenentes, coloquei valores de estilo como cores, fontes e tamanhos em variáveis css, ou seja, além de ser super fácil mudar ou adicionar um componente, modificar seu estilo também será.</p>
 <br>
 <br>
 <h2>⭐Destaques</h2>
-<p>Quero resaltar 2 partes que mais gostei do projeto: Componente de checkbox, que como todos tem seu estado reativo e conta com uma grande facilidade de padronização e automação. Nele basta adicinar na check box o tipo de adesivo que deseja acrescentar na lista, o resto o código vai fazer por você😉</p>
-*PRINT CHECKBOX COMPONENT*
+<p>Quero resaltar 2 partes que mais gostei do projeto: Componente de checkbox, que como todos os demais, tem seu estado reativo e conta com uma grande facilidade de padronização e automação. Nele basta adicinar na checkbox o tipo de adesivo que deseja acrescentar na array criada no topo do arquivo, o resto o código vai fazer por você😉</p>
+
+<img src="./" alt="imagem arquivo"/>
   
-<p>Outro componente que gostei de desenvolver foi o incremento e decremento de adesivo, qual utilizei condições para não selecionar uma quantia negativa. Como eu queria deixar o acesso possível colocando o número direto, toda string em número é transformado em number, podendo acrescentar ou decrementar com os botões esse valor.</p>
+<p>Outro parte que gostei de desenvolver foi o teste de incremento e decremento de adesivo, quais testei a disponibilidade e possíveis estados.</p>
 
-para parte de testes fiz o essencial, para não deixar tudo massante e com testes redundantes.
+<img src="./" alt="imagem arquivo"/>
 
-fiz testes para todos os componentes usados no formulario, no qual testei seus valores iniciais, estados mudados e existencia dos componentes e seus meios de interação com o usuário.
+<p>Para parte de testes fiz o essencial, assim evitando deixar tudo massante e com testes redundantes. Fiz testes para todos os componentes usados no formulário, no qual testei seus valores iniciais, estados mudados e existência dos componentes e seus meios de interação com o usuário.</p>
 
-//testei o: valor inicial da quantia de adesivos como 0;
-//a existencia dos botões para acrescentar ou decrementar a quantidade;
-
-
-<p>O que eu poderia melhorar no projeto: Componente Amount não aceitar letras.</p>
+<p>O que eu poderia melhorar no projeto: Componente Amount não aceitar letras, testes automatizados em geral. Lembrando que sempre é possível melhorar um código, tornando ele cada vez mais automatizado e sem débitos técnicos.</p>
 
 <h2 align="center">❤️developed with love by Leonardo Alencar❤️</h2>
 <p><b>FOLLOW ME!</b></p>
