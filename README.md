@@ -2,6 +2,10 @@
 <p align="center">Esse README.md vai contar sobre meu desenvolvimento nesse projeto! Espero que goste✌</p>
 <p align="center">Você pode fazer o deploy normalmente no seu localhost ou visualizar o projeto <a href="https://alencarleo.github.io/bemPaggo_form/">AQUI</a></p>
 
+<p align="center">
+<img src="./src/githubimgs/desafio.png" alt="imagem arquivo"/>
+</p>
+
 <h2>🔥Tecnologias</h2>
 <ul>
   <li>JSX</li>
@@ -18,11 +22,15 @@
 <h2>⭐Destaques</h2>
 <p>Quero resaltar 2 partes que mais gostei do projeto: Componente de checkbox, que como todos os demais, tem seu estado reativo e conta com uma grande facilidade de padronização e automação. Nele basta adicinar na checkbox o tipo de adesivo que deseja acrescentar na array criada no topo do arquivo, o resto o código vai fazer por você😉</p>
 
-<img src="./" alt="imagem arquivo"/>
-  
+<p align="center">
+<img src="./src/githubimgs/checkbox.png" alt="imagem arquivo"/>
+</p>
+
 <p>Outro parte que gostei de desenvolver foi o teste de incremento e decremento de adesivo, quais testei a disponibilidade e possíveis estados.</p>
 
-<img src="./" alt="imagem arquivo"/>
+<p align="center">
+<img src="./src/githubimgs/amount-test.png" alt="imagem arquivo"/>
+</p>
 
 <p>Para parte de testes fiz o essencial, assim evitando deixar tudo massante e com testes redundantes. Fiz testes para todos os componentes usados no formulário, no qual testei seus valores iniciais, estados mudados e existência dos componentes e seus meios de interação com o usuário.</p>
 
