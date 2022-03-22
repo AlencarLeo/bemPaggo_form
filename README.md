@@ -11,7 +11,7 @@
   <li>JS</li>
   <li>ReactJS</li>
   <li>Styled Components</li>
-  <li>Jest</li>
+  <li>testing-library</li>
   <li>Projected on <a href="https://www.figma.com/">Figma</a> & Coded on <a href="https://code.visualstudio.com/">VSCode</a></li>
 </ul>
 <p> Fiz o projeto em react para ter todos componentes com estados reativos e para evitar débitos técnicos, pois uma vez que queira modificar, atualizar ou adicionar um novo elemento basta utilizar sua tag pois o projeto foi estilizado com styled-compoents sendo todos seus components divididos, contando ainda com uma estrutura limpa e bem pensada. Me atentei a todos os detalhes do projeto, mas como não tive acesso direto a parametros de estilização, modifiquei sutilmente o projeto mas lembrando de sua essencia e mantendo todos parametros necessários para promover sua UX / UI. Ainda quero ressaltar a padronização de estilo, além de dividir os compoenentes, coloquei valores de estilo como cores, fontes e tamanhos em variáveis css, ou seja, além de ser super facil mudar ou adicionar um componente, modificar seu estilo também seria.</p>
@@ -23,7 +23,15 @@
   
 <p>Outro componente que gostei de desenvolver foi o incremento e decremento de adesivo, qual utilizei condições para não selecionar uma quantia negativa. Como eu queria deixar o acesso possível colocando o número direto, toda string em número é transformado em number, podendo acrescentar ou decrementar com os botões esse valor.</p>
 
-<p>O que eu poderia melhorar no projeto: Componente Amount não aceitar letras, melhorar seus testes.</p>
+para parte de testes fiz o essencial, para não deixar tudo massante e com testes redundantes.
+
+fiz testes para todos os componentes usados no formulario, no qual testei seus valores iniciais, estados mudados e existencia dos componentes e seus meios de interação com o usuário.
+
+//testei o: valor inicial da quantia de adesivos como 0;
+//a existencia dos botões para acrescentar ou decrementar a quantidade;
+
+
+<p>O que eu poderia melhorar no projeto: Componente Amount não aceitar letras.</p>
 
 <h2 align="center">❤️developed with love by Leonardo Alencar❤️</h2>
 <p><b>FOLLOW ME!</b></p>
