@@ -3,7 +3,7 @@ import { LabelCheck } from './styles/LabelCheck';
 import { LabelForm } from './styles/LabelForm';
 import { CheckboxForm } from './styles/CheckboxForm';
 
-const adesivosArray = ['react', 'vue', 'angular']
+export const adesivosArray = ['react', 'vue', 'angular']
 
 const Checkbox = ({id, label}) => {
 
