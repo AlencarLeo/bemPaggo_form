@@ -1,9 +1,10 @@
 <h1 align="center">Olá! Esse é o desafio FrontEnd da <a href="https://www.bempaggo.com.br/">BemPaggo</a></h1>
 <p align="center">Esse README.md vai contar sobre meu desenvolvimento nesse projeto! Espero que goste recrutador!</p>
+<p align="center">Você pode fazer o deploy normalmente no seu localhost ou visualizar o projeto <a href="https://alencarleo.github.io/bemPaggo_form/">AQUI</a></p>
 
 *GIF PROJETO*
 
-<h2>🔥Technologies</h2>
+<h2>🔥Tecnologias</h2>
 <ul>
   <li>JSX</li>
   <li>CSS</li>
@@ -13,45 +14,16 @@
   <li>Jest</li>
   <li>Projected on <a href="https://www.figma.com/">Figma</a> & Coded on <a href="https://code.visualstudio.com/">VSCode</a></li>
 </ul>
-<p>Das tecnologias acimas citadas, decidi usar Styled Components para a padronizaação dos componentes criados, no qual foram estruturados e divididos de uma forma que facilite futuras implementações, correções ou alteraações neles. Além disso decidir mudar sutilmente o projeto, um pouco o espaçamento, tamanho e o arredondamento das bordas, sendo tudo pensado para promover a melhor usabilidade para o usuário e seu UI desing. Para UX implementei pequenas aanimaações com as interações do usuário.
-
-  fiz o projeto em react para ter todos
-componentes com estados reativos e para
-evitar débitos técnicos, pois uma vez
-que queira adicionar um novo elemento
-basta utilizar sua tag pois o projeto 
-foi estilizado com styled-compoents sendo
-todos seus components divididos, contando
-ainda com uma estrutura limpa e bem pensada.
-me atentei a todos os detalhes do projeto
-e tomei a liberdade de melhorar a ux com
-interações, enfim espero que gostem
+<p> Fiz o projeto em react para ter todos componentes com estados reativos e para evitar débitos técnicos, pois uma vez que queira modificar, atualizar ou adicionar um novo elemento basta utilizar sua tag pois o projeto foi estilizado com styled-compoents sendo todos seus components divididos, contando ainda com uma estrutura limpa e bem pensada. Me atentei a todos os detalhes do projeto, mas como não tive acesso direto a parametros de estilização, modifiquei sutilmente o projeto mas lembrando de sua essencia e mantendo todos parametros necessários para promover sua UX / UI. Ainda quero ressaltar a padronização de estilo, além de dividir os compoenentes, coloquei valores de estilo como cores, fontes e tamanhos em variáveis css, ou seja, além de ser super facil mudar ou adicionar um componente, modificar seu estilo também seria.</p>
+<br>
+<br>
+<h2>⭐Destaques</h2>
+<p>Quero resaltar 2 partes que mais gostei do projeto: Componente de checkbox, que como todos tem seu estado reativo e conta com uma grande facilidade de padronização e automação. Nele basta adicinar na check box o tipo de adesivo que deseja acrescentar na lista, o resto o código vai fazer por você😉</p>
+*PRINT CHECKBOX COMPONENT*
   
-  
-  como não tive acesso ao código hex das cores 
-utilizadas, tentei aproximar ao max com o 
-color picker
-  
-  deixei um pouco mais arredondado para tornar a ui amigavel, diminuindo um pouco o icone da caixa para trazer sensação de luxo
-  
-  parte que mais gostei do projeto- CHECKBOX, incremento e decremento
-por exemplo, para implementar uma nova 
-checkbox basta adicionar o nome do 
-adesivo no array criado
+<p>Outro componente que gostei de desenvolver foi o incremento e decremento de adesivo, qual utilizei condições para não selecionar uma quantia negativa. Como eu queria deixar o acesso possível colocando o número direto, toda string em número é transformado em number, podendo acrescentar ou decrementar com os botões esse valor.</p>
 
-
-
-
-
-padronizei cores, fontes e tamanhos no estilo do formulario
-deixando mais harmonico, ainda centralizei alguns elementos
-</p>
-
-
-
-
-
-
+<p>O que eu poderia melhorar no projeto: Componente Amount não aceitar letras, melhorar seus testes.</p>
 
 <h2 align="center">❤️developed with love by Leonardo Alencar❤️</h2>
 <p><b>FOLLOW ME!</b></p>
